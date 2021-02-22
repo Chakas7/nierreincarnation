@@ -1,4 +1,9 @@
-body {
-    margin: 0;
-    padding: 0;
+table th, table td {
+	border: 1px solid #454138;
+	border-collapse: collapse;
+}
+
+.reverse-colors {
+	color: #bab5a1;
+	background-color: #454138;
 }
